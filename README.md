@@ -18,6 +18,7 @@ What is the average fork length of Chinook vs. Coho salmon across all reaches, a
 
 Importance: The average fork length is a strong indicator of fish health, growth rate, and habitat quality. By comparing these two species of salmon, we can identify species-specific habitat use within each fork of Campbell Creek. The different sizes across the Main Stem, North Forth, and South Fork can reveal which areas support growth faster and which areas may be less productive. Differences by location help agencies understand localized habitat conditions, such as food availability, water temperature, or flow differences. Understanding which forks produce larger salmon can guide management strategies that support long-term fishery sustainability. By using this data, we can sustain healthy salmon populations that ensure the continuation of traditional fishing practices and cultural heritage since salmon have a deep cultural significance for Indigenous communities residing in Alaska. 
 
+<img width="624" height="394" alt="Image" src="https://github.com/user-attachments/assets/3714a909-5ee8-4806-9d75-fe5ccd5860ed" />
 
 
 ## Question 2: 
