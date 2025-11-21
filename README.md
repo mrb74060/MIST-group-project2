@@ -22,6 +22,17 @@ Importance: The average fork length is a strong indicator of fish health, growth
 
 This chart shows how average fork length of salmon changes by month, species, and river fork location. The two species shown are chinook on the left and coho on the right. Each species has three locations which are Main Stem, North Fork, and South Fork. Within each location the bars show the average fork length for June, July, August, and in some cases September. In the Main Stem chinook are longest in June at about 80 cm then decrease through July and August. In the North Fork chinook show a similar pattern since June and July hold the smaller values with a small rebound in September. In the South Fork the smallest values occur in August while the largest values appear in September. Chinook in the South Fork also tend to be slightly longer in general than those in the North Fork. In the Main Stem coho are longest in June and decline each month through August. In the North Fork coho again start highest in June and steadily decrease into August and September. In the South Fork coho show a similar trend dropping from June to August then slightly rising in September. Fish are generally longest in June across almost every species and fork. Lengths usually decline as the summer progresses likely due to sampling of younger fish later in the season. Chinook have higher fork lengths in general than coho. The South Fork tends to show the smallest August values while September rebounds slightly.
 
+<img width="344" height="289" alt="Image" src="https://github.com/user-attachments/assets/7ecab455-ee4e-4df7-8930-fdeefa92ad1f" />
+
+<img width="396" height="320" alt="Image" src="https://github.com/user-attachments/assets/d98ca1c5-034b-4c52-ae61-a707f98fc761" />
+
+<img width="411" height="328" alt="Image" src="https://github.com/user-attachments/assets/0d51260f-220d-4e53-a86e-091a2a550a17" />
+
+The box-and-whisker plot displays how the average fork length varies across the different parts of the creek, varies by month, and by species type. Each reach is represented by a box, which shows the distribution of fork lengths for all salmonids captured at that location. The line inside each box where the shades of green split represents the median fork length, while the upper and lower edges of the box show the 25th and 75th percentiles. The whiskers extend to the minimum and maximum observed lengths, highlighting the overall range of fish sizes within each reach.
+
+The graph showcases the range of lengths, with the bigger boxes representing wider distributions and smaller boxes representing narrower distributions. Overall, the difference in average fork lengths over different sections of the river reflects differences in food availability, water temperature, and other environmental conditions the vary across reaches.
+
+
 
 
 ## Question 2: 
