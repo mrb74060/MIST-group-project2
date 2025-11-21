@@ -32,7 +32,7 @@ The box-and-whisker plot displays how the average fork length varies across the 
 
 The graph showcases the range of lengths, with the bigger boxes representing wider distributions and smaller boxes representing narrower distributions. Overall, the difference in average fork lengths over different sections of the river reflects differences in food availability, water temperature, and other environmental conditions the vary across reaches.
 
-<img width="630" height="400" alt="Image" src="https://github.com/user-attachments/assets/d91f6b4a-83fa-41f9-8e01-53d9a81b0343" />
+<img width="574" height="288" alt="Image" src="https://github.com/user-attachments/assets/eece7cda-5888-4d03-9f97-d133aafcb396" />
 
 The heat map illustrates clear differences in fork length between species and across sampling forks and months. Once again shows that, Chinook salmon are consistently larger than Coho salmon, and both species show size variation depending on the fork where they were captured. The coloration on the heat map highlights how each species responds differently to specific forks, with certain locations producing noticeably larger or smaller fish. Additionally, seasonal diffrences are especially highlighted in this graph with Chinook showing their highest fork lengths in June, while Coho reach their largest sizes during June and July. Together, these patterns demonstrate how species, location, and time of season interact to influence fork length, which is effectively visualized through the color gradients of the heat map.
 
